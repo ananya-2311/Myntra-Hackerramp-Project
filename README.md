@@ -32,6 +32,10 @@ With this feature you can share product links with your friends and family membe
 11) There is also video call feature were people can getogether and shop together. 
 12) Video call feature allows video pause/play, mic mute/unmute and camera toggle features.
 
+## Drive link to demo video:
+[Link to access demo video](https://drive.google.com/drive/u/1/folders/1jruHnmUon1d1VZItJ9nqkoGzqs2-7zPS)
+
+
 ## Future Goals
 
 1) Flutter doesnot support screen sharing. We aim to find out a way to integrate that feature to make the app more user-friendly.
